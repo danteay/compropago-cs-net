@@ -1,0 +1,9 @@
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\CompropagoSdk.Test.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\CompropagoSdk.Test.pdb
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\CompropagoSdk.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\CompropagoSdk.pdb
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\obj\Debug\CompropagoSdk.Test.csprojResolveAssemblyReference.cache
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\obj\Debug\CompropagoSdk.Test.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk.Test\obj\Debug\CompropagoSdk.Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk\bin\Debug\CompropagoSdk.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk\bin\Debug\CompropagoSdk.pdb
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk\obj\Debug\CompropagoSdk.dll
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk\obj\Debug\CompropagoSdk.pdb
+C:\Users\HP-1COMPROPAGO\documents\visual studio 2015\Projects\CompropagoSdk\CompropagoSdk\obj\Debug\CompropagoSdk.csprojResolveAssemblyReference.cache

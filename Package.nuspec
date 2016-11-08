@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ComproPago</id>
+    <version>2.1.0</version>
+    <authors>Eduardo Aguilar (eduardo.aguilar@compropago.com)</authors>
+    <owners>ComproPago</owners>
+    <licenseUrl>https://github.com/compropago/sdk-cs-net/blob/staging/README.md</licenseUrl>
+    <projectUrl>https://github.com/compropago/sdk-cs-net</projectUrl>
+    <iconUrl>https://compropago.s3.amazonaws.com/store/logo/3725/Isotipo_ComproPago_Colores_Planos.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SDK de los servicios de Compropago</description>
+    <releaseNotes>Primera version para NUGET</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>SDK C# ComproPago Payment Gateway</tags>
+  </metadata>
+
+  <files>
+    <file src="CompropagoSdk\Client.cs" target="content\CompropagoSdk\Client.cs"/>
+    <file src="CompropagoSdk\Service.cs" target="content\CompropagoSdk\Service.cs"/>
+    <file src="CompropagoSdk\Tools\Validations.cs" target="content\CompropagoSdk\Tools\Validations.cs"/>
+    <file src="CompropagoSdk\Models\Customer.cs" target="content\CompropagoSdk\Models\Customer.cs"/>
+    <file src="CompropagoSdk\Models\EvalAuthInfo.cs" target="content\CompropagoSdk\Models\EvalAuthInfo.cs"/>
+    <file src="CompropagoSdk\Models\InstructionDetails.cs" target="content\CompropagoSdk\Models\InstructionDetails.cs"/>
+    <file src="CompropagoSdk\Models\Instructions.cs" target="content\CompropagoSdk\Models\Instructions.cs"/>
+    <file src="CompropagoSdk\Models\PlaceOrderInfo.cs" target="content\CompropagoSdk\Models\PlaceOrderInfo.cs"/>
+    <file src="CompropagoSdk\Models\Provider.cs" target="content\CompropagoSdk\Models\Provider.cs"/>
+    <file src="CompropagoSdk\Models\Webhook.cs" target="content\CompropagoSdk\Models\Webhook.cs"/>
+    <file src="CompropagoSdk\Factory\Factory.cs" target="content\CompropagoSdk\Factory\Factory.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\CpOrderInfo.cs" target="content\CompropagoSdk\Factory\Abs\CpOrderInfo.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\FeeDetails.cs" target="content\CompropagoSdk\Factory\Abs\FeeDetails.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\NewOrderInfo.cs" target="content\CompropagoSdk\Factory\Abs\NewOrderInfo.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\OrderInfo.cs" target="content\CompropagoSdk\Factory\Abs\OrderInfo.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\SmsInfo.cs" target="content\CompropagoSdk\Factory\Abs\SmsInfo.cs"/>
+    <file src="CompropagoSdk\Factory\Abs\VerifierVersion.cs" target="content\CompropagoSdk\Factory\Abs\VerifierVersion.cs"/>
+    <file src="CompropagoSdk\Factory\V10\CpObject.cs" target="content\CompropagoSdk\Factory\V10\CpObject.cs"/>
+    <file src="CompropagoSdk\Factory\V10\CpOrderInfo10.cs" target="content\CompropagoSdk\Factory\V10\CpOrderInfo10.cs"/>
+    <file src="CompropagoSdk\Factory\V10\Data.cs" target="content\CompropagoSdk\Factory\V10\Data.cs"/>
+    <file src="CompropagoSdk\Factory\V10\FeeDetails10.cs" target="content\CompropagoSdk\Factory\V10\FeeDetails10.cs"/>
+    <file src="CompropagoSdk\Factory\V10\NewOrderInfo10.cs" target="content\CompropagoSdk\Factory\V10\NewOrderInfo10.cs"/>
+    <file src="CompropagoSdk\Factory\V10\OrderInfo10.cs" target="content\CompropagoSdk\Factory\V10\OrderInfo10.cs"/>
+    <file src="CompropagoSdk\Factory\V10\PaymentDetails.cs" target="content\CompropagoSdk\Factory\V10\PaymentDetails.cs"/>
+    <file src="CompropagoSdk\Factory\V10\ProductInformation.cs" target="content\CompropagoSdk\Factory\V10\ProductInformation.cs"/>
+    <file src="CompropagoSdk\Factory\V10\SmsInfo10.cs" target="content\CompropagoSdk\Factory\V10\SmsInfo10.cs"/>
+    <file src="CompropagoSdk\Factory\V10\SmsPayment.cs" target="content\CompropagoSdk\Factory\V10\SmsPayment.cs"/>
+    <file src="CompropagoSdk\Factory\V11\CpOrderInfo11.cs" target="content\CompropagoSdk\Factory\V11\CpOrderInfo11.cs"/>
+    <file src="CompropagoSdk\Factory\V11\FeeDetails11.cs" target="content\CompropagoSdk\Factory\V11\FeeDetails11.cs"/>
+    <file src="CompropagoSdk\Factory\V11\NewOrderInfo11.cs" target="content\CompropagoSdk\Factory\V11\NewOrderInfo11.cs"/>
+    <file src="CompropagoSdk\Factory\V11\OrderInfo11.cs" target="content\CompropagoSdk\Factory\V11\OrderInfo11.cs"/>
+    <file src="CompropagoSdk\Factory\V11\SmsData.cs" target="content\CompropagoSdk\Factory\V11\SmsData.cs"/>
+    <file src="CompropagoSdk\Factory\V11\SmsInfo11.cs" target="content\CompropagoSdk\Factory\V11\SmsInfo11.cs"/>
+    <file src="CompropagoSdk\Factory\V11\SmsObject.cs" target="content\CompropagoSdk\Factory\V11\SmsObject.cs"/>
+  </files>
+</package>
